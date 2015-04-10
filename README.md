@@ -15,7 +15,7 @@ If you're curious about the tools, stacks and technologies we use, get ready for
 - Go
 - Obj-C / iOS / Swift
 - Java / Android
-- Pretty much every datastore (Mongo, Postgres, Redis, CouchDB, ect)
+- Pretty much every datastore (Mongo, Postgres, Redis, CouchDB, etc)
 - We've been [exploring](https://github.com/carrot/roots-react-playground) React + Flux
 
 > PS. We love separating our client-side apps from our server-side API's. Lately we've been building API's with Express or Go and our preferred client-side stack is Roots, Marionette, Jade, Stylus, Mongo/Postgres
