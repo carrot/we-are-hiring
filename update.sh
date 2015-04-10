@@ -2,7 +2,7 @@
 TIME_PREFIX="Last Updated:"
 TIMESTAMP_FORMAT="%m-%d-%Y %I:%M %p"
 FILE_TO_UPDATE="README.md"
-GIT_BRANCH="update-script"
+GIT_BRANCH="master"
 COMMIT_MESSAGE="Still Hiring!"
 
 ###################################
