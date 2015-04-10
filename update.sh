@@ -2,8 +2,8 @@
 TIME_PREFIX="Last Updated:"
 TIMESTAMP_FORMAT="%m-%d-%Y %I:%M %p"
 FILE_TO_UPDATE="README.md"
-GIT_BRANCH="master"
-COMMIT_MESSAGE="Still Hiring!"
+GIT_BRANCH="bump"
+COMMIT_MESSAGE="bump repo to top"
 
 ###################################
 # Returns the current time in
@@ -35,8 +35,8 @@ function update_last_line() {
 ###################################
 function git_update() {
     git add .
-    git commit -m "$COMMIT_MESSAGE"
-    git push origin "$GIT_BRANCH"
+    git commit -m "$COMMIT_MESSAGE" --amend
+    git push origin "$GIT_BRANCH" --force
 }
 
 ###################################
