@@ -2,7 +2,7 @@
 a listing of the current dev positions available at [carrot](http://carrot.is/)
 
 ### A little about Carrot Dev
-We're a busy group of coders. When we're not working on client projects or working with our parent company [VICE](http://vice.com), we're active in the open-source community. We're always looking for smart people to join the team, which is why we created this repo. If you're the type of person who checks out a company's open-source contributions than you're probably the type of person we want as a teammate.
+We're a busy group of coders. When we're not working on client projects or working with our parent company [VICE](http://vice.com), we're active in the open-source community. We're always looking for smart people to join the team, which is why we created this repo. If you're the type of person who checks out a company's open-source contributions then you're probably the type of person we want as a teammate.
 
 If you're curious about the tools, stacks and technologies we use, get ready for a long list. These have all been used in production in our work:
 
