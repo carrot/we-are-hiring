@@ -4,6 +4,7 @@ TIMESTAMP_FORMAT="%m-%d-%Y %I:%M %p"
 FILE_TO_UPDATE="README.md"
 GIT_BRANCH="bump"
 COMMIT_MESSAGE="bump repo to top"
+DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
 
 ###################################
 # Returns the current time in
@@ -44,6 +45,7 @@ function git_update() {
 # executed when the script starts
 ###################################
 function main() {
+    cd "$DIR"
     new_line="$TIME_PREFIX $(current_time)"
     update_last_line "$FILE_TO_UPDATE" "$new_line"
     git_update
