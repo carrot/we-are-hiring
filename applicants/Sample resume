@@ -1,0 +1,182 @@
+# John Doe
+Irving, TX 
+
+(214) 280-6676 
+
+resume@sampleemail.com
+
+http://www.samplewebsite.com
+
+## Objective
+Enterprise web software architect experienced in application design and development, data modeling, cross-browser user interface design and programming, translating business requirements to technical specifications, project management and team building seeks a Senior position which will leverage current and emerging technologies in order to pursue company goals.
+
+## Technologies
+**Programming:** ColdFusion (4-8), Flex 3, OOP, J2EE, iText, XML, Internationalization (i18n), PHP
+
+**Database:** SQL Server, DB2 (iSeries), MySQL, Oracle, Access
+
+**Client-Side:** xHTML, CSS, Javascript (jQuery, Ext, YUI), AJAX
+
+**Frameworks:** Mach-II, Struts
+
+**OS:** Linux, Unix, Windows
+
+**Application Servers:** ColdFusion, JBoss, JRun
+
+**Software:** Eclipse (primary IDE), Flex Builder, Adobe 
+DreamWeaver, Fireworks, Photoshop, ImageReady, Illustrator, Flash, Acrobat; MS Office Suite
+
+# Experience
+
+**Dallas / Fort Worth ColdFusion User Group**
+
+Co-Manager
+
+July 2008 – Present
+
+Co-ordinate monthly meeting topics and presentations with group manager. Work with local user groups to cross-train related technologies.
+
+###Study Island
+
+Senior Web Developer
+
+June 2008 – August 2009
+
+Environment: Windows XP/Vista, ColdFusion 8.0.1 Standard on IIS, SQL Server 2005
+
+Implemented object oriented programming concepts and advanced SQL in order to rapidly develop new features for the public website and the internal CMS. Re-factored legacy application code, implemented JavaScript libraries to enhance user interface and user experience, mentored coworkers in order to address software, database and infrastructure issues.
+
+###Unitrin Specialty
+
+Senior Web Developer
+
+April 2006 – June 2008
+
+www.UnitrinSpecialty.com
+
+Environment: Windows 2000/2003, Multi-instance ColdFusion 7 J2EE on IIS, DB/2 (iSeries)
+
+Developed object oriented software architecture using object-relational mappings, implemented resource bundles, introduced other advanced concepts and mentored coworkers in order to develop more maintainable and scalable web applications catering to the Insured, their Agents and other Unitrin partners.
+
+- Technical and Team lead on Online Payments Rewrite project.
+  - ~80% of all insurance payments are processed through this application
+  - Mach-II framework
+  - Advanced Rules Engine
+  - Ajax-enhanced User Interface
+  - Robust payment tracking system
+  - Streamlined and modular payment processing
+  - Support for multiple vendors
+
+- Technical lead on Site Rewrite Project.
+  - Complete update of User Interface using CSS
+  - Update of server-side code in multiple traditional and Mach-II applications
+    - Inline queries and business logic moved to Components (CFC files)
+    - Queries were updated and optimized.
+    - Majority of inline Javascript and CSS moved to external files.
+    - Created Javascript libraries
+    - Site prepared for translation to other languages
+
+###RIA Services, Inc. / Nationwide Financial
+
+Specialist, IT Applications Development
+
+June 2004 – March 2006
+
+www.RIAServices.net
+
+Environment: 64-bit Red Hat Ent. Server 3.0, ColdFusionMX J2EE on Jboss 3.2.5 with MySQL 4.0
+
+Developed the Contract Management System for RIA Services, Inc., Nationwide Financial and associated Money Managers & Third-Party Plan Administrators. Based on plan attributes, contract documents are determined and populated with company and employee data. They are then converted into secure PDF documents that can be downloaded and printed.
+
+This application turned a 4-hour on average manual process into a 4-minute automatic process. Rather than waiting for requests to be processed by RIA Services staff, end-users can now securely log into a website to produce documents, upload employee data and generate reports on managed investments and other data.
+
+Developed a custom MVC application framework and data abstraction layer in order to rapidly add new features and transparently manage data from multiple sources.
+
+###Multimark
+
+Web Applications Developer
+
+January 2004 – June 2004
+
+Environment: Windows XP and Windows 2000
+
+Developed Contact Management Application for Lincoln Property Company using ColdFusion 5. Also designed and developed the associated SQL Server 2000 database. The application imports contact data from public and internal websites, filters contacts by property to associated real estate agents and allows agents to manage sales leads efficiently.
+
+###GetThere
+
+Senior Software Applications Engineer
+
+October 2000 - October 2003
+
+www.GetThere.com
+
+Environment: Proprietary system, JBoss and Oracle8i on Unix (Sun). Windows 2000 desktop.
+
+Developed, Designed and Maintained Features and Tools for GetThere Products using Java, JSP, ColdFusion MX and proprietary programming language. As Internationalization (i18n) Team Leader, developed solutions to bring down translation costs and enable text of target language sites to be easily updated. Along with normal duties, developed product specifications, developed data models and databases, designed prototype User Interfaces and mentored junior developers.
+
+- Translation Management Tool
+  - Saved company ~$300,000 USD in Translation Costs.
+  - Manages all user readable text in JSP templates via XML Resource Bundles.
+
+- Struts/Tiles Management User Interface 
+  - Maintains "tiles-def.xml" resource files for Struts applications using Tiles.
+  - Supports multiple Struts applications and multi-developer environment.
+  - Supports Parent / Child site layout and page inheritance.
+
+- Internationalization (i18n) Team Lead
+  - Streamlined processes for managing translated web products.
+  - Decreased translation "time to live" by 80%.
+  - Increased translation reusability by 50%.
+
+- WebConnect Flight Availability
+  - Display 3rd party data using XML, SOAP, JSP and JavaScript
+
+- US Airways Off-Line Discount Tool
+  - Web interface for Oracle database built with Cold Fusion.
+
+###Factors of i, Inc.
+
+Web Hosting and Application Development
+
+President
+
+May 1998 – Present
+
+Environment: CentOS Linux, Apache, ColdFusionMX, MySQL 4.x
+
+Factors of i, Inc. provides Web Hosting on Linux with Apache, ColdFusion or PHP and MySQL. The company also develops Web Applications, provides Server Management and other Business Services. Development and consulting is available for ColdFusionMX, J2EE and PHP as well as Oracle, SQL Server and MySQL.
+
+Clients
+
+- OnlineDisclosure Ã¢ÂÂ http://www.OnlineDisclosure.com
+  - Financial document management system
+  - Developed to allow client branding of application.
+
+- Metamor Documentation Solutions, Inc.
+  - CD-ROM Flash interface for software installation and PDF documentation.
+
+- DiamondTrade, LLC - http://www.diamondtrade.com
+- Island Publishing
+
+
+
+###SWS Technologies
+
+Web Developer
+
+October 1999 - October 2000
+
+www.swst.com
+
+Environment: Windows NT desktop. Code developed and deployed on Windows NT.
+
+Developed and maintained internal and public client websites using Cold Fusion and SQL Server.
+
+DiamondTrade, LLC - http://www.diamondtrade.com
+
+Offers high quality, affordable diamonds to the public.
+
+- Secure, web-based Administrative section
+- Automated Inventory update and pricing application
+- Dynamic product catalog
+- Client of Factors of i, Inc. as of Q2 2000
