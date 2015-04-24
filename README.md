@@ -31,4 +31,4 @@ If you're curious about the tools, stacks and technologies we use, get ready for
 - [file an issue](https://github.com/carrot/we-are-hiring/issues) with a question you might have
 - fork this repository and PR in your resume/application (or just something we might find interesting)
 
-Last Updated: 04-24-2015 02:41 PM
+Last Updated: 12-20-2016 08:00 AM
