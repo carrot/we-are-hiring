@@ -13,7 +13,7 @@ DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
 function current_time() {
     epoch=$(date +%s)
     readable=$(date -d @$epoch +"$TIMESTAMP_FORMAT")
-    echo $readable
+    echo "$readable"
 }
 
 ###################################
